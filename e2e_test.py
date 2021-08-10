@@ -10,7 +10,7 @@
 
 import requests
 
-HOST='http://continuous-deployment-python.appspot.com'
+HOST='http://democloud-idp-demo.appspot.com'
 
 # [START e2e]
 response = requests.get(f"{HOST}/get_author/ulysses")
